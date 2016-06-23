@@ -1,0 +1,51 @@
+body {
+  text-align: center;
+
+}
+
+div.navbar-header {
+  left:20%;
+}
+
+.navbar-default .navbar-brand {
+  color:white;
+}
+
+.navbar-default {
+	background-color:#337ab7;
+}
+.glyphicon {
+	color: #337ab7;
+}
+
+div.container {
+	margin-top: 50px;
+	padding-top: 50px;
+}
+.fa {
+	text-align: center;
+	position:relative;
+	color: white;
+	bottom: 35px;
+	left: 40%;
+	font-size:10px;
+}
+
+p {
+	position: absolute;
+	left: 20%;
+}
+.btn-primary {
+	background-color: red;
+}
+.navbar-form .form-control {
+	width:125%;
+	vertical-align: middle;
+	left:50px;
+}
+.btn {
+	left:200%;
+}
+a.navbar-brand {
+	right:20%;
+}
